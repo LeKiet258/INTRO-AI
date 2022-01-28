@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind,Play Tennis
+sunny,24,70,no,yes
+sunny,27,90,yes,no
+sunny,30,85,no,no
+sunny,22,95,no,no
+sunny,20,70,no,yes
+cloudy,22,90,yes,yes
+cloudy,28,75,no,yes
+cloudy,18,65,yes,yes
+cloudy,28,75,no,yes
+rainy,21,80,yes,no
+rainy,18,70,yes,no
+rainy,24,80,no,yes
+rainy,20,80,no,yes
+rainy,21,96,no,yes
